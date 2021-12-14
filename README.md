@@ -1,4 +1,4 @@
-## Oiii bem vinde ao meu perfil!
+## Oiii bem vinde ao meu perfil! Aqui está um pouco do meu trabalho, na qual desenvolvi com muito amor e carinho :)
 <div align="center">
   <a href="https://github.com/juliamohr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamohr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
